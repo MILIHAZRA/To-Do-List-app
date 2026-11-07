@@ -62,4 +62,5 @@ Watch Demo:To-Do-List app.mp4
 <h2>🤝 Contributing:</h2>
 <p>Contributions are welcome! Fork the repo, create a branch, and open a pull request.</p>
 <h2>📄 License:</h2>
-<p>This project is licensed under the MIT License.</p>
+<p>This project is licensed under the MIT License.
+<a href="https://github.com/MILIHAZRA/To-Do-List-app/commit/a9cdb0bafe0449c7b5a9d0a92241a5a3edf1e17e">MIT License</p>
